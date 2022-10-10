@@ -1,0 +1,22 @@
+header {
+    background-color: rgb(229, 229, 229);
+}
+
+.info {
+    background-color: rgb(251, 251, 251);
+    border-style: solid;
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    min-width: 600px;
+}
+
+h2 {
+    background-color: orange;
+    color: forestgreen;
+}
+
+h3 {
+    background-color: salmon;
+    color: rgb(113, 36, 27);
+}

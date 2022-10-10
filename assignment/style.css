@@ -15,7 +15,9 @@ h2 {
     background-color: orange;
     color: forestgreen;
 }
-
+img {
+    min-height: 600px;
+}
 h3 {
     background-color: salmon;
     color: rgb(113, 36, 27);
